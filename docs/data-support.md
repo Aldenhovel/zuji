@@ -47,7 +47,7 @@ geoTime,latitude,longitude,altitude,course,horizontalAccuracy,verticalAccuracy,s
 ## 华为运动健康【Android】
 
 - 导入`kml`:white_check_mark: 
-- 导出:x:
+- 导出​ :x:
 - 标准数据格式：
 
 ```xml
@@ -126,7 +126,7 @@ geoTime,latitude,longitude,altitude,course,horizontalAccuracy,verticalAccuracy,s
 ## 行者骑行数据【PC】
 
 - 导入`gpx`:white_check_mark: （需从行者官网下载带有时间及地理坐标的gpx文件）
-- 导出:x:
+- 导出 :x:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
