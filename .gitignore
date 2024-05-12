@@ -15,3 +15,5 @@ __pycache__/
 !/data/tmp/.gitkeep
 /data/yszj/*
 !/data/yszj/.gitkeep
+
+/venv/py/*

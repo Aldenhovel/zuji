@@ -4,24 +4,25 @@ import os
 from datetime import datetime
 import pytz
 
-def _listCsvFiles(dir, prefix=''):
+def _listFiles(dir, prefix=''):
     csv_files = []
     for filename in os.listdir(dir):
-        csv_files.append(prefix + filename)
+        if filename != ".gitkeep":
+            csv_files.append(prefix + filename)
     return csv_files
 
 def getAllDataSource(field):
     data_source = []
     if 'LGZJ' in field:
-        data_source.extend(_listCsvFiles('data/lgzj', prefix='【LG】'))
+        data_source.extend(_listFiles('data/lgzj', prefix='【LG】'))
     if 'YSZJ' in field:
-        data_source.extend(_listCsvFiles('data/yszj', prefix='【YS】'))
+        data_source.extend(_listFiles('data/yszj', prefix='【YS】'))
     if 'KML' in field:
-        data_source.extend(_listCsvFiles('data/kml', prefix='【KM】'))
+        data_source.extend(_listFiles('data/kml', prefix='【KM】'))
     if 'GPX' in field:
-        data_source.extend(_listCsvFiles('data/gpx', prefix='【GP】'))
+        data_source.extend(_listFiles('data/gpx', prefix='【GP】'))
     if 'Shortcut' in field:
-        data_source.extend(_listCsvFiles('data/shortcut', prefix='【SC】'))
+        data_source.extend(_listFiles('data/shortcut', prefix='【SC】'))
     return data_source
 
 
@@ -47,9 +48,10 @@ def countFiles(folder_path):
 
 def clearFolder(folder_path):
     os.makedirs(folder_path, exist_ok=True)
-    file_count = countFiles(folder_path)
+    file_count = countFiles(folder_path) - 1 # save .gitkeep
     shutil.rmtree(folder_path)
     os.makedirs(folder_path, exist_ok=True)
+    with open(os.path.join(folder_path, '.gitkeep'), 'w+') as _: pass
     return file_count
 
 
