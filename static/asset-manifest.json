@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0f1367a.css",
+    "main.js": "/static/js/main.672ced30.js",
+    "static/js/453.071b788d.chunk.js": "/static/js/453.071b788d.chunk.js",
+    "static/media/worldmaps.jpg": "/static/media/worldmaps.cf46a66b4311f8f4db7a.jpg",
+    "static/media/starfield.jpg": "/static/media/starfield.fe62fc219405a288a00f.jpg",
+    "static/media/header.jpg": "/static/media/header.1a7167b3ab7994283473.jpg",
+    "index.html": "/index.html",
+    "main.b0f1367a.css.map": "/static/css/main.b0f1367a.css.map",
+    "main.672ced30.js.map": "/static/js/main.672ced30.js.map",
+    "453.071b788d.chunk.js.map": "/static/js/453.071b788d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0f1367a.css",
+    "static/js/main.672ced30.js"
+  ]
+}

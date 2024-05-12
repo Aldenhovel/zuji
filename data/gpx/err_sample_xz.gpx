@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" version="1.0" creator="行者">
+	<name>2023-01-30 下午 骑行</name>
+	<author>行者</author>
+	<url>https://www.imxingzhe.com</url>
+	<trk>
+		<trkseg>
+			<trkpt lat="22.6321578" lon="113.0755591">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6319325" lon="113.075763">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6319057" lon="113.0760634">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6318654" lon="113.0759561">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6318359" lon="113.0760849">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6318949" lon="113.0762994">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6317957" lon="113.0773079">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.63197" lon="113.077426">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6318252" lon="113.0775976">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6318467" lon="113.0797434">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6317555" lon="113.0810308">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6318306" lon="113.0813527">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6317152" lon="113.0848825">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6317394" lon="113.0858374">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6319003" lon="113.0860412">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.631726" lon="113.086288">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.631785" lon="113.0864811">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6317099" lon="113.0867279">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6317716" lon="113.0871034">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6319593" lon="113.0871999">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6320398" lon="113.087672">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.631954" lon="113.0878329">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6318333" lon="113.08779">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6317206" lon="113.0878544">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6340139" lon="113.0976176">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6340005" lon="113.0984116">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6334158" lon="113.101716">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6335204" lon="113.101759">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6335981" lon="113.10148">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.63414" lon="113.0984437">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6341158" lon="113.0977786">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6338503" lon="113.096534">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6351967" lon="113.0963838">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.636165" lon="113.0965984">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6373801" lon="113.0967271">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6378602" lon="113.0971134">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6386219" lon="113.0973494">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6409367" lon="113.0975854">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6426399" lon="113.0978751">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6445898" lon="113.0983257">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.644673" lon="113.0983686">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6445577" lon="113.0983794">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6446059" lon="113.0986047">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6451853" lon="113.0987656">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6452121" lon="113.0986691">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6456842" lon="113.0987012">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6483449" lon="113.0996025">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.649906" lon="113.1006217">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6500508" lon="113.1008255">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6500562" lon="113.100965">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6492113" lon="113.1025636">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6485837" lon="113.1042802">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6477361" lon="113.1067371">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6475778" lon="113.1080461">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6473579" lon="113.1085718">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6471245" lon="113.1090224">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6464245" lon="113.1099129">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.646277" lon="113.1102133">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6448205" lon="113.1118977">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6437637" lon="113.1134641">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6431817" lon="113.1141508">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6418647" lon="113.1151807">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6407248" lon="113.1159747">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6399845" lon="113.1162643">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6395097" lon="113.1165755">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6363796" lon="113.1187963">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6331958" lon="113.1212103">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6318949" lon="113.1224334">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6296687" lon="113.1254804">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6289955" lon="113.1263173">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6286843" lon="113.1265855">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6287568" lon="113.1265318">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6287165" lon="113.1263816">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.622188" lon="113.1208885">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6221773" lon="113.1206846">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6237249" lon="113.1185281">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6257661" lon="113.1159425">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6254952" lon="113.1157494">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6255247" lon="113.1155884">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6254576" lon="113.1155026">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6244652" lon="113.1148911">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6234165" lon="113.1139576">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6198304" lon="113.1112003">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6197714" lon="113.1110287">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6199028" lon="113.110621">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6202998" lon="113.1099236">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6214531" lon="113.1084323">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6226816" lon="113.1066191">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6231724" lon="113.1060398">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6239368" lon="113.105514">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6242453" lon="113.105042">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6241943" lon="113.1049669">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6240119" lon="113.1050634">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6235345" lon="113.105557">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6231992" lon="113.1053638">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6234674" lon="113.105514">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6236069" lon="113.1055033">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6264045" lon="113.1022203">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6271501" lon="113.1015444">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.629835" lon="113.0983794">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6311895" lon="113.0972314">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6335606" lon="113.0965769">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6337993" lon="113.0966413">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6340193" lon="113.0970383">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6341775" lon="113.0981648">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6335123" lon="113.1017911">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6334131" lon="113.101759">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.633405" lon="113.101598">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6340246" lon="113.0983043">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6340005" lon="113.0975533">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6317206" lon="113.0878758">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6319325" lon="113.0876613">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6318038" lon="113.0873072">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.631852" lon="113.0870819">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6317689" lon="113.0870283">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6317018" lon="113.0866635">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6317689" lon="113.0864382">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6317099" lon="113.0862021">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6318493" lon="113.0859983">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6317099" lon="113.0858052">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6318359" lon="113.0757737">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.63219" lon="113.0755377">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6326057" lon="113.0754304">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6326674" lon="113.0751407">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6328444" lon="113.0749047">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6329008" lon="113.0743039">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+			<trkpt lat="22.6329383" lon="113.0743468">
+				<ele>0</ele>
+				<Speed></Speed>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

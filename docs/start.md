@@ -12,13 +12,13 @@
 
 ## 使用
 
-<h3 align="center">Quick Start 页面</h3>
+<h3 align="center">快捷转换：Quick Start 页面</h3>
 
 在`QuickStart`功能页可以快速转化某两种形式的轨迹数据，在使用时，拖动原轨迹文件到对应的转化窗口内（或者点击窗口选择文件），当转化完成后，浏览器会自动下载完成的数据。
 
 
 
-<h3 align="center">Dashboard 页面</h3>
+<h3 align="center">数据导入与合并：Dashboard 页面</h3>
 
 :one: 在`Dashboard`功能页我们制作了比较全面的数据导入系统，在使用前请首先检查`data-support.md`文档了解自己的数据文件是否支持导入，假如支持，请将数据文件复制到`data/`目录下对应的文件夹中。
 
@@ -46,7 +46,7 @@
 >
 >
 
-<h3 align="center">Export 页面</h3>
+<h3 align="center">数据转化与导出：Export 页面</h3>
 
 :one: 在`Export`功能页我们提供了将此前准备的`shortcut`数据转换为其他形式的方法。首先需要选择导出的`shortcut`文件，在`Export Shortcut data`选择栏中选择（只能选择一个）。
 
@@ -60,12 +60,12 @@
 
 
 
-<h3 align="center">Settings 页面</h3>
+<h3 align="center">设置：Settings 页面</h3>
 
 此页面可以查看程序Preview参数配置，假如需要修改请到`config.json`中手动修改并重启程序。清除历史数据快照、导出与临时文件，请点击按钮，`data/`下对应的`shortcut` `export` `tmp`目录将会清空。重启前端​，此按钮不会重启后端，仅仅是刷新页面使用。
 
 
 
-<h3 align="center">Information 页面</h3>
+<h3 align="center">查看信息：Information 页面</h3>
 
 查看程序的版本、开发时间、作者信息等，以及查询文档或支持作者。
