@@ -2,9 +2,16 @@
 __pycache__/
 *.pyc
 /data/export/*
+!/data/export/.gitkeep
 /data/gpx/*
+!/data/gpx/.gitkeep
 /data/kml/*
+!/data/kml/.gitkeep
 /data/lgzj/*
+!/data/lgzj/.gitkeep
 /data/shortcut/*
+!/data/shortcut/.gitkeep
 /data/tmp/*
+!/data/tmp/.gitkeep
 /data/yszj/*
+!/data/yszj/.gitkeep
