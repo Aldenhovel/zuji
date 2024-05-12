@@ -1,10 +1,10 @@
 .idea/
 __pycache__/
 *.pyc
-/data/export/
-/data/gpx/
-/data/kml/
-/data/lgzj/
-/data/shortcut/
-/data/tmp/
-/data/yszj/
+/data/export/*
+/data/gpx/*
+/data/kml/*
+/data/lgzj/*
+/data/shortcut/*
+/data/tmp/*
+/data/yszj/*
